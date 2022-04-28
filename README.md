@@ -77,7 +77,7 @@ tie ups abroad to assure minimum revenue by contracts.
 **Pratik Thakare** – System and Software
 Architecture Designer
 
-**Darshan Rander** – Presentation Developer,^
+**Darshan Rander** – Presentation Developer,
 Software Designer, Full Stack Developer
 
 **Dheeraj Lalwani** – Backend Lead Developer
